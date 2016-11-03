@@ -1,0 +1,7 @@
+[package]
+name = "adapton_graph"
+version = "0.1.0"
+authors = ["Sam Baxter <sbaxter@cs.umass.edu>"]
+
+[dependencies]
+adapton = "0.2.4"
